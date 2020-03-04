@@ -1,5 +1,5 @@
 # fk_lappy_scrapping
-This is a simple tool to scrapp new popular laptops from Flipkart and get basic information them.
+This is a simple tool to scrapp new popular laptops price details from Flipkart and get basic information them.
 
 Requirements before running the script.
 
