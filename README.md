@@ -6,6 +6,6 @@ Requirements before running the script.
     pip install bs4
     pip install openpyxl
 
-A excel file with name "Importe.xlsx" to be placed in the same directory you have saved the script.
+A excel file with name "Imported.xlsx" to be placed in the same directory you have saved the script.
 
     python flipkart_scarapping.py
